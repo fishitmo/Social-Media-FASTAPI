@@ -1,5 +1,7 @@
 # Social-Media-FASTAPI
 
-![Http Get Vs Post Request](images/get _vs _post _request.png)
+![get vs post](images\get-post.png)
 
 ![Why we need Schema](images\schema.png)
+
+![CRUD](images\crud.png)
