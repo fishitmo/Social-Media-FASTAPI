@@ -119,3 +119,18 @@ rm -rf venv
 ![Why we need Schema](images\schema.png)
 
 ![CRUD](images\crud.png)
+
+## Object Relational Mapper(ORM)
+![Object Relational Mapper(ORM)](images\orm.png)
+
+## Object Relational Mapper(ORM) illustration
+![Object Relational Mapper(ORM) Ilustration](images\orm-image.png)
+
+## What can ORM's Do?
+
+![What can ORM's DO?](images\orm's-do.png)
+
+## SQLALCHEMY
+
+![What can ORM's DO?](images\sqlalchemy.png)
+
