@@ -134,3 +134,11 @@ rm -rf venv
 
 ![What can ORM's DO?](images\sqlalchemy.png)
 
+
+## Schema Models
+
+![Schema Models](images\schema-models.png)
+
+## SQLALCHEMY Models
+
+![SQLALCHEMY Models](images\sqlalchemy-models.png)
